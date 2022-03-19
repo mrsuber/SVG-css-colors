@@ -33,8 +33,8 @@ CSS Color Module Level 3,coral,#ff7f50
 CSS Color Module Level 3,cornflowerblue,#6495ed
 CSS Color Module Level 3,cornsilk,#fff8dc
 CSS Color Module Level 3,crimson,#dc143c
-CSS Color Module Level 3,"cyan
-(synonym of aqua)",#00ffff
+CSS Color Module Level 3,"cyan",#00ffff
+CSS Color Module Level 3,"aqua",#00ffff
 CSS Color Module Level 3,darkblue,#00008b
 CSS Color Module Level 3,darkcyan,#008b8b
 CSS Color Module Level 3,darkgoldenrod,#b8860b
@@ -95,8 +95,8 @@ CSS Color Module Level 3,lightsteelblue,#b0c4de
 CSS Color Module Level 3,lightyellow,#ffffe0
 CSS Color Module Level 3,limegreen,#32cd32
 CSS Color Module Level 3,linen,#faf0e6
-CSS Color Module Level 3,"magenta
-(synonym of fuchsia)",#ff00ff
+CSS Color Module Level 3,"fuchsia",#ff00ff
+CSS Color Module Level 3,"magenta",#ff00ff
 CSS Color Module Level 3,mediumaquamarine,#66cdaa
 CSS Color Module Level 3,mediumblue,#0000cd
 CSS Color Module Level 3,mediumorchid,#ba55d3
