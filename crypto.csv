@@ -1,0 +1,8 @@
+name,symbol,slug,img_url
+Bitcoin,BTC,bitcoin,https://s2.coinmarketcap.com/static/img/coins/64x64/1.png
+Ethereum,ETH,ethereum,https://s2.coinmarketcap.com/static/img/coins/64x64/1027.png
+Tether,USDT,tether,https://s2.coinmarketcap.com/static/img/coins/64x64/825.png
+BNB,BNB,bnb,https://s2.coinmarketcap.com/static/img/coins/64x64/1839.png
+USD Coin,USDC,usdcoin,https://s2.coinmarketcap.com/static/img/coins/64x64/3408.png
+XRP,XRP,XRP,https://s2.coinmarketcap.com/static/img/coins/64x64/52.png
+Solana ,SOL,SOL,https://s2.coinmarketcap.com/static/img/coins/64x64/5426.png
