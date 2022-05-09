@@ -1,4 +1,4 @@
-   [
+export let data=   [
     {name: "Rubidium", symbol: "RBD", slug: "rubidium", img_url: "https://raw.githubusercontent.com/ErikThiart/cryptocurrency-icons/master/32/rubidium.png"},
     {name: "TIA", symbol: "TIA", slug: "tia", img_url: "https://raw.githubusercontent.com/ErikThiart/cryptocurrency-icons/master/32/tia.png"},
     {name: "Candle", symbol: "CNDL", slug: "candle", img_url: "https://raw.githubusercontent.com/ErikThiart/cryptocurrency-icons/master/32/candle.png"},
