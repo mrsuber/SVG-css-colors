@@ -1,10 +1,5 @@
-symbol,name,symbol_native,decimal_digits,rounding,code,name_plural
-$,US Dollar,$,2,0,USD,US dollars
-CA$,Canadian Dollar,$,2,0,CAD,Canadian dollars
-€,Euro,€,2,0,EUR,euros
-AED,United Arab Emirates Dirham,د.إ.‏,2,0,AED,UAE dirhams
-Af,Afghan Afghani,؋,0,0,AFN,Afghan Afghanis
-ALL,Albanian Lek,Lek,0,0,ALL,Albanian lekë
-AMD,Armenian Dram,դր.,0,0,AMD,Armenian drams
-AR$,Argentine Peso,$,2,0,ARS,Argentine pesos
-AU$,Australian Dollar,$,2,0,AUD,Australian dollars
+symbol,name,code,icon
+US$,United States Dollar,USD,https://www.kestrel.ws/flags/current/sm/usa.png
+€,Euro,EUR,https://www.kestrel.ws/flags/current/sm/eec.png
+franc,Central African CFA,XAF,https://www.kestrel.ws/flags/current/sm/cmr.png
+CA$,Canadian Dollar,CAD,https://www.kestrel.ws/flags/current/sm/can.png
